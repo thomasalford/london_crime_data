@@ -6,4 +6,7 @@ The aim of this project is to plot some sort of density map onto an actual map o
 
 #### Preliminary work
 The UK Police website provides a free to use API to request data on crime by a number of different API calls. Including the option to request data within specified pairs of latitude and longitude points. eg.
+
 `https://data.police.uk/api/crimes-street/all-crime?poly=52.268,0.543:52.794,0.238:52.130,0.478&date=2018-01`
+
+
